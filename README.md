@@ -17,7 +17,7 @@
 ## 1. Sobre o projeto
 
 Uma aplicação web que permite ao usuário obter informações especifícas e descritivas a partir de filtros e cálculo agregado.
-O tema do nosso  projeto é o studio Ghibli ,  um dos estúdios de animação mais conhecidos do mundo, responsável por uma filmografia vasta e repleta de emoção , delicadeza e humanismo. 
+O tema do nosso  projeto é o Studio Ghibli ,  um dos estúdios de animação mais conhecidos do mundo, responsável por uma filmografia vasta e repleta de emoção , delicadeza e humanismo. 
 
 
 ## 2. Resumo do projeto
